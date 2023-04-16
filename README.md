@@ -1,0 +1,1 @@
+# RealTime_StereoAnnotations_PropertiesFile
